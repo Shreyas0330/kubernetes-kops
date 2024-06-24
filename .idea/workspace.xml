@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ee7201d-aa3f-419d-bfb2-ab3edbd686f5" name="Changes" comment="commit added new db file configuration">
-      <change beforePath="$PROJECT_DIR$/vprodbdep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db-svc.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mc-svc.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcdep.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmq-dep.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rmq-svc.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vproapp-svc.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vproappdep.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +50,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719224494714</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit added new db file configuration">
+      <created>1719224663105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719224663105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit added new db file configuration">
+      <created>1719224678487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719224678487</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
